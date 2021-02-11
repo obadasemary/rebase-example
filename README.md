@@ -43,3 +43,8 @@ Use these steps to clone from SourceTree, our client for using the repository co
 4. Open the directory you just created to see your repository’s files.
 
 Now that you're more familiar with your Bitbucket repository, go ahead and add a new file locally. You can [push your change back to Bitbucket with SourceTree](https://confluence.atlassian.com/x/iqyBMg), or you can [add, commit,](https://confluence.atlassian.com/x/8QhODQ) and [push from the command line](https://confluence.atlassian.com/x/NQ0zDQ).
+
+
+## Lorem ipsum section
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed semper sit amet elit elementum auctor. Maecenas nec purus id nisi venenatis sagittis. Suspendisse congue leo sem, vitae rutrum tellus tristique non. Sed condimentum mauris purus. Pellentesque blandit pellentesque ante, eget molestie diam venenatis non. Nam vehicula pharetra lectus, vel malesuada felis dignissim ut. Maecenas sed risus commodo, vestibulum quam non, scelerisque sem. Mauris consectetur eget lorem eu porta.
