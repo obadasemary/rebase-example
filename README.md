@@ -49,12 +49,6 @@ Use these steps to clone from SourceTree, our client for using the repository co
 Now that you're more familiar with your Bitbucket repository, go ahead and add a new file locally. You can [push your change back to Bitbucket with SourceTree](https://confluence.atlassian.com/x/iqyBMg), or you can [add, commit,](https://confluence.atlassian.com/x/8QhODQ) and [push from the command line](https://confluence.atlassian.com/x/NQ0zDQ).
 
 
-## Lorem ipsum section
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed semper sit amet elit elementum auctor. Maecenas nec purus id nisi venenatis sagittis. Suspendisse congue leo sem, vitae rutrum tellus tristique non. Sed condimentum mauris purus. Pellentesque blandit pellentesque ante, eget molestie diam venenatis non. Nam vehicula pharetra lectus, vel malesuada felis dignissim ut. Maecenas sed risus commodo, vestibulum quam non, scelerisque sem. Mauris consectetur eget lorem eu porta.
-
-
-Proin non odio egestas, fringilla sapien sit amet, fermentum dui. Duis commodo laoreet ipsum quis tincidunt. Curabitur a justo nulla. In vel mi massa. Nunc sit amet ultrices ipsum, a pharetra arcu. Aenean sed leo mauris. Fusce nec semper odio.
 
 
 Duis a erat nisi. Duis dapibus commodo mi, id malesuada neque ullamcorper ac. Proin vitae risus urna. Donec quis odio vitae eros congue ornare. Aenean rutrum ex vitae nibh iaculis aliquam. Curabitur sodales nec ex in hendrerit. Maecenas vel enim ornare, scelerisque dui hendrerit, aliquet neque. Donec a enim eros. Donec ac maximus risus, quis tincidunt ante. Etiam sed odio lorem. Mauris ornare ante at elit euismod mattis at at libero. Maecenas et facilisis nulla, in pretium lacus. Fusce dictum quam nunc, ac commodo enim luctus non. Phasellus rutrum molestie leo, eu tristique risus scelerisque sit amet. Aliquam ullamcorper lectus in libero imperdiet posuere.
